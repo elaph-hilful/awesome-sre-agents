@@ -19,6 +19,7 @@ A curated list of AI-powered DevOps &amp; SRE (Site Reliability Engineering) age
 ### Platform of Agents
 - [RunWhen](https://www.runwhen.com/)
 - [Obot](https://github.com/obot-platform/obot) (Open Source)
+- [Control Flow](https://github.com/PrefectHQ/ControlFlow) (Open Source)
 
 ### SRE Agents
 - [Nudge Bee](https://nudgebee.com/)
