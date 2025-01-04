@@ -21,6 +21,7 @@ A curated list of AI-powered DevOps &amp; SRE (Site Reliability Engineering) age
 - [Obot](https://github.com/obot-platform/obot) (Open Source)
 
 ### SRE Agents
+- [Nudge Bee](https://nudgebee.com/)
 - [Parity](https://www.tryparity.com/)
 - [Cleric](https://cleric.io/)
 - [k8s-GPT](https://github.com/k8sgpt-ai/k8sgpt) (Open Source)
